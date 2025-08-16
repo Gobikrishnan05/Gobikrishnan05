@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gobikrishnan05
 - 👀 I’m interested in creating designs & working with data
-- 🌱 I’m currently pursuing an MSc in Data Science
+- 🌱 I’m currently pursuing an M.Sc in Data Science
 - 💼 Currently working on data science-related projects and studies
 - 🤝 I’m looking to collaborate on web & app design and data science projects
 
